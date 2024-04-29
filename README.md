@@ -1,4 +1,4 @@
-[![Masterhead](https://i0.wp.com/edu.varistor.in/wp-content/uploads/Frontend-Web-Development-vs-Backend-Web-Development-vs-Full-Stack-Web-Development.png)
+![Masterhead](https://i0.wp.com/edu.varistor.in/wp-content/uploads/Frontend-Web-Development-vs-Backend-Web-Development-vs-Full-Stack-Web-Development.png)
 <h1 align="center">Hi 👋, I'm Mohamed</h1>
 <h3 align="center">A passionate full stack developer from France</h3>
 
